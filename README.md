@@ -1,4 +1,5 @@
-https://i.ibb.co/3s6VDQJ/web-development.gif
+<img align="center" alt="coding" src="https://i.ibb.co/3s6VDQJ/web-development.gif">
+
 <h1 align="center">Hi 👋, I'm Koushik Ahmad</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 <img align="right" alt="Coding" width="400" src="https://i.ibb.co/PGdmfrn/91382-web-development.gif">
