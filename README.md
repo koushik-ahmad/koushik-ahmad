@@ -1,3 +1,4 @@
+![MasterHead]
 <img align="center" alt="coding" src="https://i.ibb.co/3s6VDQJ/web-development.gif">
 
 <h1 align="center">Hi 👋, I'm Koushik Ahmad</h1>
