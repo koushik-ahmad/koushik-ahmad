@@ -1,4 +1,3 @@
-![MasterHead]
 <img align="center" alt="coding" src="https://raw.githubusercontent.com/koushik-ahmad/create-json-data/main/web-development-02.gif">
 
 <h1 align="center">Hi 👋, I'm Koushik Ahmad</h1>
